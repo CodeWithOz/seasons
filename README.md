@@ -1,3 +1,13 @@
+# Seasons
+This is a simple React app to display different content depending
+on the user's location and date. The project explores the
+basics of managing state and using lifecycle methods in React.
+It is part of Udemy's
+[Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
+course taught by Stephen Grider.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
