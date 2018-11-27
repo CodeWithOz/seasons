@@ -1,4 +1,4 @@
-# Seasons
+# Seasons App
 This is a simple React app to display different content depending
 on the user's location and date. The project explores the
 basics of managing state and using lifecycle methods in React.
